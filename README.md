@@ -1,1 +1,1 @@
-# Curso de diseño con HTML y CSS para emails con Platzi
+# Curso de diseño HTML y CSS para emails con Platzi
